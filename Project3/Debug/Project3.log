@@ -1,0 +1,29 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project3\project3\source.cpp(8): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+c:\users\тимур\source\repos\project3\project3\source.cpp(14): warning C4102: g1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(16): warning C4102: g3: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(18): warning C4102: g2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(86): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+c:\users\тимур\source\repos\project3\project3\source.cpp(164): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+c:\users\тимур\source\repos\project3\project3\source.cpp(220): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+c:\users\тимур\source\repos\project3\project3\source.cpp(245): warning C4129: : неизвестная escape-последовательность
+c:\users\тимур\source\repos\project3\project3\source.cpp(38): warning C4102: a1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(41): warning C4102: a4: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(44): warning C4102: a2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(53): warning C4102: d1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(57): warning C4102: d2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(66): warning C4102: d3: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(92): warning C4102: g1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(94): warning C4102: g3: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(96): warning C4102: g2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(103): warning C4102: d4: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(108): warning C4102: i1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(110): warning C4102: i2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(112): warning C4102: i3: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(114): warning C4102: i4: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(137): warning C4102: h1: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(141): warning C4102: h2: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(149): warning C4102: h4: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(156): warning C4102: h3: неиспользованная метка
+c:\users\тимур\source\repos\project3\project3\source.cpp(186): warning C4102: a3: неиспользованная метка
+  Project3.vcxproj -> C:\Users\Тимур\source\repos\Project3\Debug\Project3.exe
